@@ -396,7 +396,7 @@ certbot renew --dry-run
 
 ---
 
-### (optional think) Remove Old Project:
+### (optional think) How to Remove Old Project:
 
 Stop the Old Project in PM2
 
