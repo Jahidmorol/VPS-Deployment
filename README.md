@@ -448,3 +448,5 @@ document2: https://codebhaiya.com/blog/how-to-point-domain-and-host-a-next.js-ap
 chatgpt solution1: https://chatgpt.com/share/671a8288-8fc8-8001-b31e-b3c4de08b504
 
 chatgpt solution2: https://chatgpt.com/share/671a82b7-cb9c-8001-975b-449ead516e70
+
+chatgpt solution with mongodb local: https://chatgpt.com/share/6940717c-4560-8007-9af7-45305dc93abd
