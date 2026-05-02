@@ -93,7 +93,7 @@ net:
   bindIp: 127.0.0.1
 ```
 
-Create tunnel:
+Create tunnel: (in local pc and keep running)
 
 ```bash
 ssh -L 27017:localhost:27017 root@YOUR_VPS_IP
